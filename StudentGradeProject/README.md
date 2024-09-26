@@ -48,7 +48,7 @@ The **Student Grade Validation & Reporting System** is a Java-based application 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Student-Grade-Validation.git
+   git clone https://github.com/galahad-arpit03/JAVA-PROJECTS/blob/main/StudentGradeProject.git
 Open the project in your preferred IDE.
 Compile and run the StudentMain class.
 Sample Data
