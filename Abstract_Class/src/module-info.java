@@ -1,0 +1,2 @@
+module Abstract_Class {
+}
